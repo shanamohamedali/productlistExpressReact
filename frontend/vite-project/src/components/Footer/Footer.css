@@ -1,0 +1,30 @@
+.footer-main-container{
+    background-color: rgb(48, 47, 47);
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    padding: 10px 0 10px 0;
+    color: aliceblue;
+}
+
+.footer-main-container .footer-section{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5px;
+    
+}
+.footer-main-container .footer-section1 .footer-section2 {
+  width:50%;
+}
+.footer-main-container p{
+    padding: 10px;
+text-align: center;
+}
+
+.footer-main-container .footer-location{
+    display: flex;
+    justify-content: center;
+   padding-top: 10px;
+    gap: 15px;
+}
+

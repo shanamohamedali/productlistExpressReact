@@ -1,0 +1,8 @@
+.products-main-container{
+    /* display: grid;
+    gap: 50px 100px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10px;
+}
