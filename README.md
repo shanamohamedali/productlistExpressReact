@@ -1,4 +1,4 @@
-Js<h2>E-Commerce Website- Products Page </h2>
+<h2>E-Commerce Website- Products Page </h2>
 <p>All Products Page and Single Product page created using React and Express.js </p>
 
 <h4>Screenshot of Products page</h4>
